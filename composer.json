@@ -1,0 +1,30 @@
+{
+    "name": "lathanhvien/novaofdatetime",
+    "description": "Display Laravel Nova date time field with pickerFormat support.",
+    "keywords": [
+        "laravel",
+        "nova",
+        "datetime"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pifpif\\NovaOfDateTime\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Pifpif\\NovaOfDateTime\\FieldServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
