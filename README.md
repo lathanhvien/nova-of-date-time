@@ -1,7 +1,7 @@
 # nova-of-date-time 1.0.0
 ### Installation
 ```sh
-$ composer require lathanhvien/nova-of-date-time
+$ composer require lathanhvien/novaofdatetime
 ```
 ### Usage
 ```sh
