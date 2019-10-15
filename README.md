@@ -17,12 +17,12 @@ OfDateTime::make('Foobar')
     ->firstDayOfWeek(1)
 ```
 ### Configuration
-This package is an improvement of DateTime Nova package.
-It add option function pickerConvert to make a convert from pickerFormat (for Display) to momentFormat (for Vuejs).
-Check pickerFormat conventions on this page:
-https://flatpickr.js.org/formatting/
-Check momentFormat conventions on this page:
-https://momentjs.com/docs/#/parsing/string-format/
+This package is an improvement of DateTime Nova package.  
+It add option function pickerConvert to make a convert from pickerFormat (for Display) to momentFormat (for Vuejs).  
+Check pickerFormat conventions on this page:  
+https://flatpickr.js.org/formatting/  
+Check momentFormat conventions on this page:  
+https://momentjs.com/docs/#/parsing/string-format/  
 ### Support
 If you have any ideas about this package, feel free to contact me at gmail: b.thanhdung@gmail.com or skype: xprotoprotox
 ### License
